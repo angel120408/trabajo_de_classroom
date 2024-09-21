@@ -37,5 +37,5 @@ else:#De lo contrario
 
     print("-NO INGRESASTE UN NUMERO COMO TAL- O - EL NUMERO INGRESADO ESTA FUERA DEL RANGO PERMITIDO-")
 
-![image](https://github.com/user-attachments/assets/af6ad409-968d-43bf-a58e-ecf6fddc227b)
+![image](https://github.com/user-attachments/assets/4ecfc7d8-cccd-46f9-95ec-ffa20fe65a77)
 ![image](https://github.com/user-attachments/assets/21cba884-304d-46fa-87d3-35c162d91f4f)
